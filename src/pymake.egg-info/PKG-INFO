@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pymake
+Version: 0.0.1
+Summary: A GNU-make-similar tool written in python and with Makefiles written in python
+Home-page: https://github.com/kbairak/pymake
+Author: Konstantinos Bairaktaris
+Author-email: ikijob@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+UNKNOWN
+

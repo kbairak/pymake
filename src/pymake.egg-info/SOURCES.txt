@@ -1,0 +1,11 @@
+pyproject.toml
+setup.cfg
+setup.py
+src/pymake.egg-info/PKG-INFO
+src/pymake.egg-info/SOURCES.txt
+src/pymake.egg-info/dependency_links.txt
+src/pymake.egg-info/entry_points.txt
+src/pymake.egg-info/top_level.txt
+src/tests/__init__.py
+src/tests/test_pymake.py
+src/tests/utils.py

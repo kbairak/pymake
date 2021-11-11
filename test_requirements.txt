@@ -1,0 +1,4 @@
+pipepy
+pytest
+pytest-cov
+pytest-watch
